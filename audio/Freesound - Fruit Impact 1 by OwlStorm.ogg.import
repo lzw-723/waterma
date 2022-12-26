@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Freesound - Fruit Impact 1 by OwlStorm.ogg-20528663fc86c9b90829888223f7395d.oggstr"
+
+[deps]
+
+source_file="res://audio/Freesound - Fruit Impact 1 by OwlStorm.ogg"
+dest_files=[ "res://.import/Freesound - Fruit Impact 1 by OwlStorm.ogg-20528663fc86c9b90829888223f7395d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

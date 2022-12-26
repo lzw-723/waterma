@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Freesound - win.wav by mehraniiii.mp3-f19c8d099a1954db9be9fbe6b1b644bb.mp3str"
+
+[deps]
+
+source_file="res://audio/Freesound - win.wav by mehraniiii.mp3"
+dest_files=[ "res://.import/Freesound - win.wav by mehraniiii.mp3-f19c8d099a1954db9be9fbe6b1b644bb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

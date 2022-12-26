@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Freesound - Horror fleshy impale impact with remains falling.mp3-5eb629e74e23a67b35a5ccb652a5e76b.mp3str"
+
+[deps]
+
+source_file="res://audio/Freesound - Horror fleshy impale impact with remains falling.mp3"
+dest_files=[ "res://.import/Freesound - Horror fleshy impale impact with remains falling.mp3-5eb629e74e23a67b35a5ccb652a5e76b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

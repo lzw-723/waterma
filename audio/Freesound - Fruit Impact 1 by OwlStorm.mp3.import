@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Freesound - Fruit Impact 1 by OwlStorm.mp3-d404b84cfec2d7a383c56a9b0114706f.mp3str"
+
+[deps]
+
+source_file="res://audio/Freesound - Fruit Impact 1 by OwlStorm.mp3"
+dest_files=[ "res://.import/Freesound - Fruit Impact 1 by OwlStorm.mp3-d404b84cfec2d7a383c56a9b0114706f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

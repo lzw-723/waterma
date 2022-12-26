@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bar Brawl.mp3-34fad99c033da715ff77087482b21108.mp3str"
+
+[deps]
+
+source_file="res://audio/Bar Brawl.mp3"
+dest_files=[ "res://.import/Bar Brawl.mp3-34fad99c033da715ff77087482b21108.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
